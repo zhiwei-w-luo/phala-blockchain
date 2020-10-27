@@ -1,4 +1,13 @@
+Hello World Beginner CHALLENGE 
 
+
+screenshot of my core-blockchain:
+
+![image](https://github.com/zhiwei-w-luo/phala-blockchain/blob/master/images/core-blockchain.png)
+
+screenshot of my secret token:
+
+![image](https://github.com/zhiwei-w-luo/phala-blockchain/blob/master/images/WechatIMG291.png)
 
 
 twitter link:
